@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A command line RPG.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganMerchant/jest-another-RPG.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Logan Merchant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoganMerchant/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/LoganMerchant/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
